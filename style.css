@@ -10,7 +10,6 @@ body {
   background-attachment: fixed;
 }
 .navegador {
-  list-style: none;
   text-align: center;
 }
 
@@ -36,4 +35,3 @@ body {
   background-color: #00e1ff;
   color: #ffffff;
 }
-

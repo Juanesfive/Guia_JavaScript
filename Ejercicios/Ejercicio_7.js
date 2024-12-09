@@ -4,7 +4,7 @@
 // c. entre 35000 y 60000 ---- 20%
 // d. más de 60000 ---- 45%
 // escribir un programa que pregunte al usuario su renta anual y muestre por pantalla el tipo
-// de impositivo que le corresponde
+// de impositivo que le corresponde.
 
 let renta = parseInt(prompt("Ingrese su renta anual"));
 

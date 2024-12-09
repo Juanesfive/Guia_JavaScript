@@ -18,9 +18,10 @@ body {
 }
 
 .Ejercicios__item {
-  display: inline;
+  display: inline-block;
   text-align: center;
   margin: 10px 10px 10px 10px;
+ 
 }
 
 .Ejercicios__link {

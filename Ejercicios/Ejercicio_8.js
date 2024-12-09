@@ -15,13 +15,13 @@
 let puntuacion = parseFloat(prompt("Ingrese su puntuacion"));
 
 if (puntuacion === 0.0) {
-    console.log("Tu nivel de rendimiento es Inaceptable y tu dinero obtenido es de:" + puntuacion * 2400);
+    alert("Tu nivel de rendimiento es Inaceptable y tu dinero obtenido es de:" + puntuacion * 2400);
 
 } else if (puntuacion === 0.4) {
-    console.log("Tu nivel de rendimiento es Aceptable y tu dinero obtenido es de:" + puntuacion * 2400);
+    alert("Tu nivel de rendimiento es Aceptable y tu dinero obtenido es de:" + puntuacion * 2400);
 
 } else if (puntuacion >= 0.6) {
-    console.log("Tu nivel de rendimiento es Meritorio y tu dinero obtenido es de:" + puntuacion * 2400)
+    alert("Tu nivel de rendimiento es Meritorio y tu dinero obtenido es de:" + puntuacion * 2400)
 }
 
 
